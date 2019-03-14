@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LuuAnhKiet</string>
+    <string name="Main_Username">Username</string>
+    <string name="Main_PassWord">PassWord</string>
+    <string name="Main_Login">Login</string>
+    <string name="Main_Button">MainButton</string>
+    <string name="Button">Button</string>
+    <string name="Main_User" />
+    <string name="Main_Password" />
+    <string name="DSMH" />
+</resources>

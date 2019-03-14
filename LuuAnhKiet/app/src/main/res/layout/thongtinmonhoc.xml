@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/book"/>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:paddingLeft="20dp">
+        <TextView
+            android:id="@+id/contact_tv_TMH"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tên môn học"/>
+        <TextView
+            android:id="@+id/contact_tv_MMH"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mã môn học"/>
+        <TextView
+            android:id="@+id/contact_tv_STC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Số tính chỉ"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

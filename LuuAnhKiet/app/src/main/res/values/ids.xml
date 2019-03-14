@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contact_detail_tvGV" type="id" />
+    <item name="contact_detail_tvMSV" type="id" />
+    <item name="contact_detail_tvTMH" type="id" />
+    <item name="contact_detail_tvSTC" type="id" />
+    <item name="contact_detail_tvNganh" type="id" />
+    <item name="contact_detail_tvUserName" type="id" />
+    <item name="contact_tv_TMH" type="id" />
+    <item name="contact_tv_MMH" type="id" />
+    <item name="contact_tv_STC" type="id" />
+</resources>
